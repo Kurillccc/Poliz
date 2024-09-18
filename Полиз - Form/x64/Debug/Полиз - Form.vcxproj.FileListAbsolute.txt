@@ -1,0 +1,3 @@
+D:\Desktop\Полиз - Form\Полиз - Form\x64\Debug\Полиз - Form.vcxproj.AssemblyReference.cache
+D:\Desktop\Полиз - Form\Полиз - Form\x64\Debug\ПолизForm.MyForm.resources
+D:\Desktop\Полиз - Form\Полиз - Form\x64\Debug\Полиз - Form.vcxproj.GenerateResource.cache

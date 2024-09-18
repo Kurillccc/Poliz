@@ -1,0 +1,24 @@
+﻿  MyForm.cpp
+D:\Desktop\Полиз - Form\Полиз - Form\Poliz.h(19,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\Desktop\Полиз - Form\Полиз - Form\Poliz.h(149,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\Desktop\Полиз - Form\Полиз - Form\Poliz.h(172,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\Desktop\Полиз - Form\Полиз - Form\Myform.h(229,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\Desktop\Полиз - Form\Полиз - Form\Myform.h(236,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\Desktop\Полиз - Form\Полиз - Form\Myform.h(248,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\Desktop\Полиз - Form\Полиз - Form\Myform.h(252,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Полиз - Form.vcxproj -> D:\Desktop\Полиз - Form\x64\Debug\Полиз - Form.exe
